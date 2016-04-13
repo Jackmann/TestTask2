@@ -1,0 +1,19 @@
+body {
+	padding-top: 50px;
+	font-family: "ITC Bauhaus Medium Cyrillic";
+	font-weight: 400;
+	font-size: 2em;
+	position: relative;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 100;
+	margin: 0;
+}
+
+.navbar {
+	font-weight: 900;
+	border-radius: 0;
+	border: 0;
+}
+
