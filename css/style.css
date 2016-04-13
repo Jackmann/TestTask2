@@ -12,25 +12,31 @@ body {
 img {
 	display: block;
 }
-/*
-label[for="inputPassword3"], label[for="inputEmail3"] {
-	display: none;
+
+.form-control {
+	border-radius: 2px;
 }
-*/
+
 form {
+	display: block;
+	margin: 0 auto;
 	border: 2px solid grey;
 	padding: 50px;
+	margin-top: 50px;
+	width: 500px;
 	border-radius: 0px 50px 50px 50px;
 	text-decoration: underline;
 }
 
-.scol {
-	color: red;
+label {
+	margin-top: 7px;
+	text-align: right;
 }
 
-label {
-	padding-top: 7px;
-	text-align: right;
+
+
+.scol {
+	color: red;
 }
 
 form a {
